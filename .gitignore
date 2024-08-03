@@ -1,0 +1,13 @@
+# Sensitive data
+key.txt
+.env
+
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
